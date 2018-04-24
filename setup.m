@@ -1,0 +1,11 @@
+run /home/jobinkv/softwares/vlfeat-0.9.20/toolbox/vl_setup
+%run /users/jobinkv/softwares/vedaldi/matconvnet/matlab/vl_setupnn
+run /home/jobinkv/softwares/matconvnet/matlab/vl_setupnn
+%run /users/jobinkv/softwares/matconvnet-1.0-beta24/matlab/vl_setupnn
+addpath /home/jobinkv/softwares/vlfeat-0.9.20/toolbox
+addpath /home/jobinkv/softwares/vlfeat-0.9.20/toolbox/misc
+%addpath /users/jobinkv/softwares/vedaldi/matconvnet/examples
+addpath /home/jobinkv/softwares/matconvnet/examples
+%addpath /users/jobinkv/softwares/matconvnet-1.0-beta24/examples
+addpath /home/jobinkv/softwares/vlfeat-0.9.20/toolbox/mex
+addpath /home/jobinkv/softwares/vlfeat-0.9.20/toolbox/mex/mexa64
